@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "October 26, 2023 12:00:27 AM",
+      "body": "random words(re-edited)"
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "October 25, 2023 11:55:05 PM",
+      "body": "Checking whether working!"
+    },
+    {
+      "id": 3,
+      "title": "3rd post",
+      "datetime": "October 26, 2023 12:03:35 AM",
+      "body": "Random Words......."
+    },
+    {
+      "id": 4,
+      "title": "4th post",
+      "datetime": "October 26, 2023 12:06:05 AM",
+      "body": "In Home,only less than 25 characters will been displayed"
+    }
+  ]
+}
